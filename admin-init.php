@@ -16,3 +16,5 @@ if (file_exists(dirname(__FILE__).'/redux-framework/ReduxCore/framework.php')) {
 if (file_exists(dirname(__FILE__).'/options-init.php')) {
     require_once( dirname(__FILE__).'/options-init.php' );
 }
+// just a test
+global $data_options;
