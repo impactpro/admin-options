@@ -18,3 +18,6 @@ if (file_exists(dirname(__FILE__).'/options-init.php')) {
 }
 // just a test
 global $data_options;
+
+// adding images
+$img = 'images.png';
